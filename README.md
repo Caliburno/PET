@@ -86,7 +86,7 @@ You are free to use, modify, and distribute the code for personal or commercial 
 
 ## Credits
 
-- Developed by [Your Name] and [Friend’s Name]
+- Developed by Caliburno and MPereira2025
 - Powered by JavaFX, Maven, and SQLite.
 
 ---
