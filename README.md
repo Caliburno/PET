@@ -29,7 +29,7 @@ A desktop application for managing personal finances, built with JavaFX and Mave
 
 - **Languages & Frameworks:**  
   - Java 17+  
-  - JavaFX (UI)  
+  - JavaFX (view)  
   - Maven (build tool)  
   - SQLite (local database)  
   - PostgreSQL (planned for online/cloud sync)  
