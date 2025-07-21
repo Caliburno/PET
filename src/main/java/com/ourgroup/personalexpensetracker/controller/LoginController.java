@@ -12,7 +12,7 @@ public class LoginController {
 
     public void onLoginButtonClick(ActionEvent event) {
         try {
-            Parent root = FXMLLoader.load(getClass().getResource("/view/MainScreenSummary.fxml"));
+            Parent root = FXMLLoader.load(getClass().getResource("/com.ourgroup.personalexpensetracker/view/MainScreenSummary.fxml"));
             Stage stage = (Stage) ((javafx.scene.Node)event.getSource()).getScene().getWindow();
             stage.setScene(new Scene(root));
             stage.show();
