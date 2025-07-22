@@ -1,4 +1,4 @@
 package com.ourgroup.personalexpensetracker.controller;
 
-public class TagManagementController {
+public class SummarytController {
 }
